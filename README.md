@@ -1,2 +1,2 @@
-# Repository-name-ss-pearl
+-ss-pearl
 SS Pearl Music &amp; Lyrics Website
